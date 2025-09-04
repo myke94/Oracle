@@ -21,7 +21,7 @@ Langage SQL Oracle
 | IW | représente le numéro de la semaine basé sur le standard ISO (1-52/53). |
 | W | représente le numéro de la semaine d'un mois (1-5). |
 | DDD | représente le numéro du jour sur une année (1-365). |
-| dd | représente le numéro du jour sur un mois (1-31). |
+| DD / dd | représente le numéro du jour sur un mois (1-31). |
 | D | représente le numéro du jour sur une semaine (1-7). |
 | DAY / Day / day | représente le nom littéral du jour (SUNDAY-SATURDAY). |
 | DY / Dy / dy | représente le nom littéral abrégé du jour (SUN-SAT)). |
